@@ -1,0 +1,16 @@
+
+; <<>> DiG 9.11.5-P1-1-Debian <<>> axfr friendzone.red @10.10.10.123
+;; global options: +cmd
+friendzone.red.		604800	IN	SOA	localhost. root.localhost. 2 604800 86400 2419200 604800
+friendzone.red.		604800	IN	AAAA	::1
+friendzone.red.		604800	IN	NS	localhost.
+friendzone.red.		604800	IN	A	127.0.0.1
+administrator1.friendzone.red. 604800 IN A	127.0.0.1
+hr.friendzone.red.	604800	IN	A	127.0.0.1
+uploads.friendzone.red.	604800	IN	A	127.0.0.1
+friendzone.red.		604800	IN	SOA	localhost. root.localhost. 2 604800 86400 2419200 604800
+;; Query time: 170 msec
+;; SERVER: 10.10.10.123#53(10.10.10.123)
+;; WHEN: Sat Feb 16 02:32:14 +0545 2019
+;; XFR size: 8 records (messages 1, bytes 289)
+

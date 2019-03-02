@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu Feb 28 19:10:14 2019 as: nmap -sC -sV -oA nmap/frolic 10.10.10.111
+Host: 10.10.10.111 ()	Status: Up
+Host: 10.10.10.111 ()	Ports: 22/open/tcp//ssh//OpenSSH 7.2p2 Ubuntu 4ubuntu2.4 (Ubuntu Linux; protocol 2.0)/, 49/filtered/tcp//tacacs///, 139/open/tcp//netbios-ssn//Samba smbd 3.X - 4.X (workgroup: WORKGROUP)/, 445/open/tcp//netbios-ssn//Samba smbd 4.3.11-Ubuntu (workgroup: WORKGROUP)/, 1052/filtered/tcp//ddt///, 1236/filtered/tcp//bvcontrol///, 2033/filtered/tcp//glogger///, 2323/filtered/tcp//3d-nfsd///, 5730/filtered/tcp//unieng///, 6002/filtered/tcp//X11:2///, 9999/open/tcp//http//nginx 1.10.3 (Ubuntu)/, 11110/filtered/tcp//sgi-soap///, 16012/filtered/tcp//unknown///, 22939/filtered/tcp//unknown///, 49165/filtered/tcp//unknown///	Ignored State: closed (985)
+# Nmap done at Thu Feb 28 19:11:10 2019 -- 1 IP address (1 host up) scanned in 56.23 seconds
